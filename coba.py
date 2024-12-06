@@ -3,4 +3,4 @@ b = 2
 
 c = ( b + a )
 
-print c
+print (c)
